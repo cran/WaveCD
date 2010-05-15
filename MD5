@@ -1,0 +1,13 @@
+c62700eb0c3506a8abaecc801b2be63a *DESCRIPTION
+5a181671b1e7278f3e054dc0f56b0e72 *NAMESPACE
+fb59f5a1eea0a4e033f3e65a53181bdf *R/BreakPoints.R
+1eb561778f33e60d26d70a7206bafbd7 *R/PlotBreakPoints.R
+f05143c3d744b1e3715d51d40ca2ad82 *R/SimulateError.R
+39fd88c25bb6bb4da2df0a0decac602a *R/SymmetricMA.R
+43db941bb3d7dfd606b003a4356428e9 *data/arrayCGH.rda
+8d37076cff2fbf9f6c2b06fe932ca978 *man/BreakPoints.Rd
+707151a0ae95c3c95eb83369e93a5285 *man/PlotBreakPoints.Rd
+756f807e3fa35c502fd58b7946a96a88 *man/SimulateError.Rd
+0f957a59ed3ef85a94f3c56a6ad5e6f2 *man/SymmetricMA.Rd
+81d7bfa8cf70ae1d223bc33f262912e2 *man/WaveCD-package.Rd
+03907ebf2e7b96852f9a1b9126946b7c *man/arrayCGH.Rd
